@@ -20,7 +20,7 @@ I am an MSc Information Technology student with a strong foundation in Machine L
 <p align="left">
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40" style="margin-right: 10px;"/> </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2019%E2%80%93present.svg" 
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" 
        alt="Microsoft Excel" width="40" height="40"/>
 </a>
 </p>
