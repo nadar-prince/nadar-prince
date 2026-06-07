@@ -30,7 +30,7 @@ I am actively seeking internship opportunities and strategic collaborations wher
 
 ### 📊 Tools & Productivity
 <p align="left">
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://icons8.com" alt="Power BI" width="45" height="45"/></a>
+<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://icons8.com" alt="Power BI" width="45" height="45"/></a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="45" height="45"/></a>
    <a href="https://matplotlib.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="45" height="45"/></a>
 </p>
