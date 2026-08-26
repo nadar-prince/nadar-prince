@@ -1,8 +1,8 @@
-# Howdy, It's Prince Nadar here! 👋
+## Howdy, It's Prince Nadar here! 👋🏻
 
 I'm an MSc Information Technology student with a strong foundation in Machine Learning, Artificial Intelligence, and Generative AI. Skilled in Python, SQL, and data visualization, with hands-on experience building predictive models and translating raw datasets into actionable insights. Currently seeking entry-level opportunities and collaborative projects to apply my skills to real-world engineering challenges.
 
-## 🛠️ Technical Skills
+### 🛠️ Technical Skills
 
 | Category | Skills |
 |---|---|
