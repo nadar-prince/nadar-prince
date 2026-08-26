@@ -1,35 +1,54 @@
-# Hello, I'm Prince Nadar! 👋
-I am an MSc Information Technology candidate with a robust foundation in Machine Learning, Artificial Intelligence, and Web Development. I am highly proficient in leveraging Python, SQL, and advanced visualization tools to translate complex datasets into actionable insights, engineer predictive models, and architect dynamic web applications.
+# Prince Nadar
 
-I am actively seeking internship opportunities and strategic collaborations where I can contribute my technical expertise to real-world challenges, drive innovative solutions, and continue my professional growth.
+**MSc Information Technology | Machine Learning & Web Development**
 
-## 🛠 Skills
+I build data-driven applications and predictive models, combining a strong analytical foundation with practical software engineering skills. Currently completing my MSc in Information Technology, with a focus on Machine Learning, AI, and full-stack web development.
 
-### 💻 Programming & Data Science
+I'm open to internship opportunities and collaborative projects where I can apply my technical skills to solve real-world problems.
+
+📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/your-profile) · [Email](mailto:your.email@example.com) · [Portfolio](https://your-portfolio.com)
+
+---
+
+## Currently Learning
+
+🌱 Deepening my expertise in **Artificial Intelligence & Machine Learning** — currently exploring deep learning architectures, model deployment, and applied AI systems as part of my MSc coursework and independent projects.
+
+---
+
+## Technical Skills
+
+**Languages & Data Science**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Backend & Databases**
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frontend**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools**
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## GitHub Stats
+
 <p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="45" height="45"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="45" height="45"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
-### 🌐 Web & Backend Development
-<p align="left">
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/flask.png" alt="Flask" width="45" height="45"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/></a>
-</p>
+---
 
-### 🎨 Frontend Development
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/></a>
-</p>
-
-### 📊 Tools & Productivity
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="45" height="45"/></a>
-   <a href="https://matplotlib.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="45" height="45"/></a>
-</p>
+*Thanks for stopping by — feel free to explore my repositories and reach out if you'd like to collaborate.*
