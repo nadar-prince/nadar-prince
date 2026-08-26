@@ -6,8 +6,6 @@ I build data-driven applications and predictive models, combining a strong analy
 
 I'm open to internship opportunities and collaborative projects where I can apply my technical skills to solve real-world problems.
 
-📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/princenadar02) · [Email](mailto:princenadar1212@gmail.com) · [Portfolio]([https://your-portfolio.com](https://princenadar02.github.io/Prince-Portfolio/))
-
 ---
 
 ## Currently Learning
@@ -45,6 +43,15 @@ I'm open to internship opportunities and collaborative projects where I can appl
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=princenadar02&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princenadar02&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
 
 ---
 
