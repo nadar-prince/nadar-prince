@@ -46,13 +46,4 @@ I'm open to internship opportunities and collaborative projects where I can appl
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=princenadar02&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princenadar02&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
----
-
 *Thanks for stopping by — feel free to explore my repositories and reach out if you'd like to collaborate.*
